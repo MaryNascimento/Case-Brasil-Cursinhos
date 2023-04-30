@@ -20,6 +20,7 @@
 <ul>
   <li>Clone este repositório em sua máquina local.</li>
   <li>Abra o terminal na pasta do projeto e rode o comando <strong>npm install</strong> para instalar as dependências.</li>
+  <li>Rode o comando <strong>npm install react-icons --save</strong> para instalar o pacote de ícones React Icons.</li>
   <li>Rode o comando <strong>npm run dev</strong> para iniciar o servidor de desenvolvimento.</li>
   <li>Abra o navegador e acesse <strong>http://localhost:3000</strong></li>
 </ul>
